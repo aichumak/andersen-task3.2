@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Pictures</string>
+    <string name="test_image">Test image</string>
+    <string name="https_picsum_photos_200">Enter picture URL</string>
+    <string name="load_picture_with_android">Load picture with android</string>
+    <string name="load_picture_with_picasso">Load picture with picasso</string>
+    <string name="load_picture_with_glide">Load picture with glide</string>
+    <string name="paste_a_test_web_address">^ paste a test web address ^</string>
+    <string name="web_address">https://picsum.photos/400</string>
+    <string name="error_picture_not_loaded">ERROR: the picture is not loaded</string>
 </resources>
